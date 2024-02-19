@@ -18,3 +18,4 @@ A simple and engaging number guessing game implemented in Python.
 
 Explore the code to see how I've implemented game logic, user input handling, and database interactions. Feel free to provide feedback or suggestions!
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NahidHassanOfficial/NumberGuessingGame)
