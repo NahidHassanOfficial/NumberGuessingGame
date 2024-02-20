@@ -15,7 +15,6 @@ def main():
 
     while True:
         secret_number = generate_secret_number(level)
-        print(secret_number)
         guess_count = play_round(secret_number)
 
         show_play_result(guess_count, level)
